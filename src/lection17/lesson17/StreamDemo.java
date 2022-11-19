@@ -205,6 +205,20 @@ public class StreamDemo {
                 .map(String::valueOf)
                 .collect(partitioningByUniqueness2(Collectors.joining("-")))
                 .forEach((isUnique, str1) -> System.out.format("%s: %s\n", isUnique ? "unique" : "repetitive", str1));
+
+
+        System.out.println();
+        IntStream.range(1, 5)
+                .flatMap(i -> IntStream.generate(() -> i).limit(i))
+                .forEach(s -> System.out.print(s + " "));
+
+        System.out.println();
+        var v = IntStream.range(1, 5)
+                .flatMap(i -> IntStream.generate(() -> i).limit(i))
+                .boxed()
+                .collect(Collectors.groupingBy(Function.identity(), Collectors.averagingInt(Integer::valueOf)));
+
+
     }
 
     public static void hello(int myValue) {
