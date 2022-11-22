@@ -1,0 +1,24 @@
+{
+  "Integers": [
+    45,
+    34
+  ],
+  "Symbols": [
+    "h",
+    "k",
+    "d",
+    "l"
+  ],
+  "Words": [
+    "hello",
+    "by",
+    "good",
+    "day",
+    "friend"
+  ],
+  "Floating point": [
+    4.5,
+    3.8,
+    2
+  ]
+}

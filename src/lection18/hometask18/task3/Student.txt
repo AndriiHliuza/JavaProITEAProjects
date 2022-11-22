@@ -1,0 +1,83 @@
+;81ksatemoh.81noitcel egakcap
+
+;laireS.oi.avaj tropmi
+;elbazilaireS.oi.avaj tropmi
+
+{ elbazilaireS stnemelpmi tnedutS ssalc cilbup
+;ytlucaf gnirtS citats detcetorp    
+;eman gnirtS cilbup    
+;di tni etavirp    
+;drowssap gnirtS tneisnart etavirp    
+
+{ dneirF ssalc citats cilbup    
+;emaNrus gnirtS cilbup        
+;ega tni etavirp        
+
+{ )(emaNruSteg gnirtS cilbup        
+;emaNrus nruter            
+}        
+
+{ )emaNrus gnirtS(emaNruStes diov cilbup        
+;emaNrus = emaNrus.siht            
+}        
+
+{ )(egAteg tni cilbup        
+;ega nruter            
+}        
+
+{ )ega tni(egAtes diov cilbup        
+;ega = ega.siht            
+}        
+}    
+
+laireS@    
+;L1 = DIUnoisreVlaires gnol lanif citats etavirp    
+
+{ )drowssap gnirtS ,di tni ,eman gnirtS ,ytlucaFfOeman gnirtS(tnedutS cilbup    
+;ytlucaFfOeman = ytlucaf        
+;eman = eman.siht        
+;di = di.siht        
+;drowssap = drowssap.siht        
+}    
+
+
+{ )(olleHyas diov cilbup    
+;)"olleh"(nltnirp.tuo.metsyS        
+}    
+
+{ )(eyBdooGyas diov citats cilbup    
+;)"eyb dooG"(nltnirp.tuo.metsyS        
+}    
+
+{ )(ytlucaFteg gnirtS citats cilbup    
+;ytlucaf nruter        
+}    
+
+{ )ytlucaf gnirtS(ytlucaFtes diov citats cilbup    
+;ytlucaf = ytlucaf.tnedutS        
+}    
+
+{ )(emaNteg gnirtS cilbup    
+;eman nruter        
+}    
+
+{ )eman gnirtS(emaNtes diov cilbup    
+;eman = eman.siht        
+}    
+
+{ )(dIteg tni cilbup    
+;di nruter        
+}    
+
+{ )di tni(dItes diov cilbup    
+;di = di.siht        
+}    
+
+{ )(drowssaPteg gnirtS cilbup    
+;drowssap nruter        
+}    
+
+{ )drowssap gnirtS(drowssaPtes diov cilbup    
+;drowssap = drowssap.siht        
+}    
+}
