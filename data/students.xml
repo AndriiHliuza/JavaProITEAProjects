@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+    <student login="MitarAlex7" faculty="mmf">
+        <name>Mitar Alex</name>
+        <telephone>2456474</telephone>
+        <address>
+            <country>Poland</country>
+            <city>Krakiv</city>
+            <street>Kamsg 32</street>
+        </address>
+    </student>
+    <student login="Pashkin5" faculty="mmf">
+        <name>Pashkin Alex</name>
+        <telephone>3453789</telephone>
+        <address>
+            <country>Poland</country>
+            <city>Krakiv</city>
+            <street>Kamsjhkjawedj 3</street>
+        </address>
+    </student>
+<!--    <data><![CDATA[5<7]]></data>-->
+</students>
